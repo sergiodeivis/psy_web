@@ -97160,7 +97160,7 @@ case 1:return A.H(q,r)}})
 return A.I($async$qm,r)}}
 A.S6.prototype={
 M(a){var s=null
-return new A.Bu(B.Oq,"11PsicoApp",A.rm(B.IT,s,A.aJr(s,s,B.aj,s,s,B.cg).anW(B.k,B.m,B.bw,B.a23),new A.u8(A.pz(s,s,B.bw,s,s,s,s,s,s,B.k,s,s,B.pH,s,new A.ci(A.cK(20),B.q),s,s,s,s,s)),"Noto Sans",B.bw,B.k,new A.wf(A.Vd(s,s,s,s,s,s,s,s,s,B.bw,s,s,s,s,s,s,s,s,s,s)),A.b4r().$0().anB(B.HU,B.HU),s),B.YV,B.TO,s)}}
+return new A.Bu(B.Oq,"12PsicoApp",A.rm(B.IT,s,A.aJr(s,s,B.aj,s,s,B.cg).anW(B.k,B.m,B.bw,B.a23),new A.u8(A.pz(s,s,B.bw,s,s,s,s,s,s,B.k,s,s,B.pH,s,new A.ci(A.cK(20),B.q),s,s,s,s,s)),"Noto Sans",B.bw,B.k,new A.wf(A.Vd(s,s,s,s,s,s,s,s,s,B.bw,s,s,s,s,s,s,s,s,s,s)),A.b4r().$0().anB(B.HU,B.HU),s),B.YV,B.TO,s)}}
 A.Ab.prototype={
 ak(){return new A.a_6()}}
 A.a_6.prototype={
